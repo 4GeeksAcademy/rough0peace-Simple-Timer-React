@@ -9,3 +9,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.clock-body{
+    text-align: center;
+    margin: 100px 0;
+    width: 500px;
+    background-color: black;
+}
+
+.clock-body div{
+    display: inline-block;
+    font-size: xx-large;
+    background-color: #101010;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    border-color: #303030;
+}
